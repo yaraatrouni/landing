@@ -1,0 +1,13 @@
+.btn-orange{
+	background-color: #F67E04;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-orange:hover {
+	background-color: #FFC02C;
+	color: white; 
+}
